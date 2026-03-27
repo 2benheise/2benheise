@@ -1,13 +1,9 @@
 ## 📚 Hi, I'm Ben Heise
 Product and design engineer building software with AI-assisted workflows.
 
----
-
 ## 🧰 Featured Work
 - <a href="https://www.pixelpassword.com/" target="_blank"><strong>Pixel Password</strong></a> – Visual authentication platform  
 - <a href="https://2benheise.github.io/claw-and-crown/" target="_blank"><strong>Claw & Crown</strong></a> – Interactive cabinet configurator
-
----
 
 ## 🛠️ Tech Stack
 <img width="86" height="28" alt="React" src="https://github.com/user-attachments/assets/269b52d6-5c11-4198-800b-5265bf97b8c6" />
@@ -22,8 +18,6 @@ Product and design engineer building software with AI-assisted workflows.
 <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/b3ac686f-802f-4f40-aeed-7fd8e6455a1a" />
 <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/6e892b47-3b84-4f4e-98f8-6b7fc45cf2e7" />
 <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/f3e94a3b-f2eb-4a78-9ac4-492d0bf27cc4" />
-
----
 
 ## ⚙️ Focus
 - Building user-facing products, 
