@@ -1,5 +1,5 @@
 ## 📚 Hi, I'm Ben Heise
-Product and design engineer building and shipping products using AI-assisted workflows.
+Product and design engineer building software with AI-assisted workflows.
 
 ## 🧰 Featured Work
 - <a href="https://www.pixelpassword.com/" target="_blank"><strong>Pixel Password</strong></a> – Visual authentication platform  
