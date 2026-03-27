@@ -11,7 +11,7 @@ Product and design engineer building software with AI-assisted workflows.
 <img width="127" height="28" alt="Typescript" src="https://github.com/user-attachments/assets/106615c7-09c4-468d-91f2-575f8dcb0c0b" />
 <img width="139" height="28" alt="Tailwind" src="https://github.com/user-attachments/assets/f268a31a-b86e-444b-bdee-aa04d9ad8f45" />
 <img width="127" height="28" alt="Javascript" src="https://github.com/user-attachments/assets/a916ec3e-6803-494a-a1b0-b12b2fec4971" />
-<img width="57" height="28" alt="CSS3" src="https://github.com/user-attachments/assets/2ef60263-436a-4e6c-8c04-fae64b8346dd" />
+<img width="73" height="29" alt="CSS3" src="https://github.com/user-attachments/assets/3f0e1d5c-41c5-4876-af93-bce06ca93196" />
 <img width="88" height="28" alt="HTML5" src="https://github.com/user-attachments/assets/289898d0-27eb-43c6-abd2-c5dd2991c2d2" />
 <br />
 <img width="214" height="28" alt="image" src="https://github.com/user-attachments/assets/0c5c6936-e4b3-4e56-9711-1409fabbd64e" />
