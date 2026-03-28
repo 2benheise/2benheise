@@ -1,6 +1,5 @@
 ## Hi, I'm Ben Heise
-Product engineer shipping fast with React, TypeScript, and AI-first workflows.<br />
-I build and refine user-facing features using AI tools: Codex, Cursor and Claude.
+Product Engineer building fast with React, TypeScript, Tailwind CSS and AI-first workflows.<br> I build, refine, and ship user-facing features using Codex, Claude, Cursor.
 
 ## Featured Work
 ### <a href="https://www.pixelpassword.com/" target="_blank">Pixel Password</a>
@@ -20,6 +19,7 @@ I build and refine user-facing features using AI tools: Codex, Cursor and Claude
   <img width="271" alt="Claw & Crown" src="https://github.com/user-attachments/assets/5dd1c99d-ab81-4229-93c5-b477dd9b2476" />
 </a>
 
+- Interactive cabinet configurator for exploring layout and design options
 - Rapidly prototyped and iterated on the cabinet configurator using AI-assisted workflows  
 - Built and refined features quickly using AI tools: Codex / Claude / Cursor  
 - Focused on fast iteration and continuous UI improvement   
@@ -42,5 +42,6 @@ I build and refine user-facing features using AI tools: Codex, Cursor and Claude
 <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/f3e94a3b-f2eb-4a78-9ac4-492d0bf27cc4" />
 
 ## Focus
-- Building user-facing products, 
-- Rapid refinement
+- AI-assisted development workflows (Codex, Claude, Cursor)
+- Building and iterating on user-facing features
+- Rapid prototyping and continuous UI improvement
