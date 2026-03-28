@@ -1,11 +1,21 @@
-## 📚 Hi, I'm Ben Heise
+## Hi, I'm Ben Heise
 Product and design engineer building software with AI-assisted workflows.
 
-## 🧰 Featured Work
-- <a href="https://www.pixelpassword.com/" target="_blank"><strong>Pixel Password</strong></a> – Visual authentication platform  
-- <a href="https://2benheise.github.io/claw-and-crown/" target="_blank"><strong>Claw & Crown</strong></a> – Interactive cabinet configurator
+## Featured Work
+<a href="https://www.pixelpassword.com/" target="_blank">
+<img width="100" alt="Pixel Password" src="https://github.com/user-attachments/assets/b80df542-8464-4f42-bbad-fbe3bc511bac" />
+</a><br />
 
-## 🛠️ Tech Stack
+- <a href="https://www.pixelpassword.com/" target="_blank"><strong>Pixel Password</strong></a> – Visual authentication platform  
+
+
+<a href="https://2benheise.github.io/claw-and-crown/" target="_blank">
+  <img width="271" alt="image" src="https://github.com/user-attachments/assets/5dd1c99d-ab81-4229-93c5-b477dd9b2476" />
+</a><br />
+
+- <a href="https://2benheise.github.io/claw-and-crown)" target="_blank"><strong>Claw & Crown</strong></a> – Interactive cabinet configurator
+
+## Tech Stack
 <img width="86" height="28" alt="React" src="https://github.com/user-attachments/assets/269b52d6-5c11-4198-800b-5265bf97b8c6" />
 <img width="78" height="28" alt="NextJS" src="https://github.com/user-attachments/assets/b4a17127-dce0-4423-8017-e0ed7be2bf4c" />
 <img width="127" height="28" alt="Typescript" src="https://github.com/user-attachments/assets/106615c7-09c4-468d-91f2-575f8dcb0c0b" />
@@ -19,7 +29,6 @@ Product and design engineer building software with AI-assisted workflows.
 <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/6e892b47-3b84-4f4e-98f8-6b7fc45cf2e7" />
 <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/f3e94a3b-f2eb-4a78-9ac4-492d0bf27cc4" />
 
-## ⚙️ Focus
+## Focus
 - Building user-facing products, 
 - Rapid refinement
-- Shipping to production
