@@ -2,18 +2,9 @@
 Product and design engineer building software with AI-assisted workflows.
 
 ## Featured Work
-<a href="https://www.pixelpassword.com/" target="_blank">
-<img width="100" alt="Pixel Password" src="https://github.com/user-attachments/assets/b80df542-8464-4f42-bbad-fbe3bc511bac" />
-</a><br />
-
-- <a href="https://www.pixelpassword.com/" target="_blank"><strong>Pixel Password</strong></a> – Visual authentication platform  
-
-
-<a href="https://2benheise.github.io/claw-and-crown/" target="_blank">
-  <img width="271" alt="image" src="https://github.com/user-attachments/assets/5dd1c99d-ab81-4229-93c5-b477dd9b2476" />
-</a><br />
-
-- <a href="https://2benheise.github.io/claw-and-crown)" target="_blank"><strong>Claw & Crown</strong></a> – Interactive cabinet configurator
+| <a href="https://www.pixelpassword.com/" target="_blank">Pixel Password</a> | <a href="https://2benheise.github.io/claw-and-crown/" target="_blank">Claw & Crown</a> |
+|:-----------:|-----------|
+| <a href="https://www.pixelpassword.com/" target="_blank"><img width="80" alt="Pixel Password" src="https://github.com/user-attachments/assets/b80df542-8464-4f42-bbad-fbe3bc511bac" /></a><br /> • Visual authentication platform | <a href="https://2benheise.github.io/claw-and-crown/" target="_blank"><img width="271" alt="image" src="https://github.com/user-attachments/assets/5dd1c99d-ab81-4229-93c5-b477dd9b2476" /></a><br /> • Interactive cabinet configurator |
 
 ## Tech Stack
 <img width="86" height="28" alt="React" src="https://github.com/user-attachments/assets/269b52d6-5c11-4198-800b-5265bf97b8c6" />
