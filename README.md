@@ -1,10 +1,31 @@
 ## Hi, I'm Ben Heise
-Product and design engineer building software with AI-assisted workflows.
+Product engineer shipping fast with React, TypeScript, and AI-first workflows.<br />
+I build and refine user-facing features using AI tools: Codex, Cursor and Claude.
 
 ## Featured Work
-| <a href="https://www.pixelpassword.com/" target="_blank">Pixel Password</a> | <a href="https://2benheise.github.io/claw-and-crown/" target="_blank">Claw & Crown</a> |
-|:-----------:|-----------|
-| <a href="https://www.pixelpassword.com/" target="_blank"><img width="80" alt="Pixel Password" src="https://github.com/user-attachments/assets/b80df542-8464-4f42-bbad-fbe3bc511bac" /></a><br /> • Visual authentication platform | <a href="https://2benheise.github.io/claw-and-crown/" target="_blank"><img width="271" alt="image" src="https://github.com/user-attachments/assets/5dd1c99d-ab81-4229-93c5-b477dd9b2476" /></a><br /> • Interactive cabinet configurator |
+### <a href="https://www.pixelpassword.com/" target="_blank">Pixel Password</a>
+
+<a href="https://www.pixelpassword.com/" target="_blank">
+  <img width="80" alt="Pixel Password" src="https://github.com/user-attachments/assets/b80df542-8464-4f42-bbad-fbe3bc511bac" />
+</a>
+
+- Built a visual authentication system to explore alternative login UX 
+- Developed with React + TypeScript using AI-assisted workflows  
+- Focused on usability and reducing friction in authentication flows  
+
+
+### <a href="https://2benheise.github.io/claw-and-crown/" target="_blank">Claw & Crown</a>
+
+<a href="https://2benheise.github.io/claw-and-crown/" target="_blank">
+  <img width="271" alt="Claw & Crown" src="https://github.com/user-attachments/assets/5dd1c99d-ab81-4229-93c5-b477dd9b2476" />
+</a>
+
+- Rapidly prototyped and iterated on the cabinet configurator using AI-assisted workflows  
+- Built and refined features quickly using AI tools: Codex / Claude / Cursor  
+- Focused on fast iteration and continuous UI improvement   
+
+<br>
+
 
 ## Tech Stack
 <img width="86" height="28" alt="React" src="https://github.com/user-attachments/assets/269b52d6-5c11-4198-800b-5265bf97b8c6" />
